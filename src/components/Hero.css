@@ -1,0 +1,44 @@
+.hero {
+  background: #5e00c7;
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+}
+
+.search-box {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.search-box input {
+  padding: 10px;
+  font-size: 16px;
+  width: 200px;
+  border: none;
+  border-radius: 5px;
+}
+
+.search-box button {
+  padding: 10px 20px;
+  background: gold;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.trusted-by {
+  margin-top: 30px;
+}
+
+.trusted-by img {
+  height: 30px;
+  margin: 0 10px;
+}
